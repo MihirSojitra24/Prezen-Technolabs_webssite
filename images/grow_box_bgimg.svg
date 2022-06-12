@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="378" height="375" viewBox="0 0 378 375">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_91" data-name="Rectangle 91" width="378" height="375" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="grow_box_bgimg" clip-path="url(#clip-path)">
+    <circle id="Ellipse_22" data-name="Ellipse 22" cx="149" cy="149" r="149" transform="translate(204 60)" fill="#fff" opacity="0.2"/>
+    <circle id="Ellipse_23" data-name="Ellipse 23" cx="36" cy="36" r="36" transform="translate(234 55)" fill="#fff" opacity="0.2"/>
+  </g>
+</svg>

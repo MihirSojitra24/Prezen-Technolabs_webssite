@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="378" height="375" viewBox="0 0 378 375">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_88" data-name="Rectangle 88" width="378" height="375" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="design_box_bgimg" clip-path="url(#clip-path)">
+    <rect id="Rectangle_82" data-name="Rectangle 82" width="170" height="170" transform="translate(231 -37)" fill="#fff" opacity="0.2"/>
+    <rect id="Rectangle_89" data-name="Rectangle 89" width="55" height="55" transform="translate(209 105)" fill="#fff" opacity="0.2"/>
+  </g>
+</svg>

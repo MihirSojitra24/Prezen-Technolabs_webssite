@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="582" height="260" viewBox="0 0 582 260">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_77" data-name="Rectangle 77" width="582" height="260" transform="translate(815 826)" fill="#3fc0f0"/>
+    </clipPath>
+  </defs>
+  <g id="story_box_bgimg2" transform="translate(-815 -826)" clip-path="url(#clip-path)">
+    <path id="Polygon_1" data-name="Polygon 1" d="M86,0l86,149H0Z" transform="translate(1311 937)" fill="#fff" opacity="0.3"/>
+    <path id="Polygon_2" data-name="Polygon 2" d="M57.5,0,115,99H0Z" transform="translate(931 830) rotate(90)" fill="#fff" opacity="0.15"/>
+    <path id="Polygon_3" data-name="Polygon 3" d="M24.5,0,49,41H0Z" transform="matrix(-0.407, 0.914, -0.914, -0.407, 1106, 1028.176)" fill="#fff" opacity="0.15"/>
+    <path id="Polygon_4" data-name="Polygon 4" d="M24.5,0,49,41H0Z" transform="translate(1333.084 836.271) rotate(6)" fill="#fff" opacity="0.3"/>
+  </g>
+</svg>

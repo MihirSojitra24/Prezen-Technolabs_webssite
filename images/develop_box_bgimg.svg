@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="378" height="375" viewBox="0 0 378 375">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_86" data-name="Rectangle 86" width="378" height="375" transform="translate(0 69)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="develop_box_bgimg" transform="translate(0 -69)" clip-path="url(#clip-path)">
+    <path id="Polygon_5" data-name="Polygon 5" d="M185,0,370,320H0Z" transform="translate(25.785 197.936) rotate(-30)" fill="#fff" opacity="0.2"/>
+    <path id="Polygon_6" data-name="Polygon 6" d="M29.5,0,59,51H0Z" transform="translate(268.285 119.436) rotate(30)" fill="#fff" opacity="0.2"/>
+  </g>
+</svg>
