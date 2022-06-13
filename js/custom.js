@@ -25,15 +25,17 @@ jQuery(document).ready(function() {
     // Mobile Menu
     // jQuery('#collapsibleNavbar').hide()
     jQuery('.mobile_menu_btn').click(function() {
+        jQuery('.mobile_menu_btn').toggleClass('open');
         jQuery('#collapsibleNavbar').slideToggle();
     });
 
 
     // Our Team Slider JS
     jQuery(".testimonial_slider").slick({
-        autoplay: true,
+        autoplay: false,
         autoplaySpeed: 8000,
         speed: 1000,
+        infinite: false,
         slidesToShow: 1,
         slidesToScroll: 1,
         pauseOnHover: false,
