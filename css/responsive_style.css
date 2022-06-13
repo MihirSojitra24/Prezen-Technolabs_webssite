@@ -24,8 +24,11 @@
         padding: 0px 9.5px;
     }
     header .navbar-light .navbar-nav li.nav-item .nav-link {
-        font-size: 14px;
-        line-height: 21px;
+        font-size: 15px;
+    }
+    header .navbar-light .navbar-nav li.nav-item.active .nav-link {
+        font-weight: bold;
+        border-bottom: 1px solid rgb(31, 61, 138);
     }
     /** HOME PAGE **/
     .banner_topText_Sec {
@@ -182,6 +185,9 @@
 }
 
 @media (max-width: 767px) {
+    header {
+        height: 62px;
+    }
     .first_story_box .banner_largeBox_right img {
         max-width: 300px;
     }
@@ -309,10 +315,19 @@
         padding: 0;
         width: 100%;
     }
+    .insight_Col .insight_Col_content {
+        padding: 0;
+    }
     .insight_Col .insight_Col_content p {
         font-size: 15px;
         line-height: 22px;
         padding-bottom: 15px;
+        height: auto;
+        margin: 0;
+    }
+    .insight_Col .insight_Col_content .border_btn {
+        position: relative;
+        bottom: auto;
     }
     .scheduleMeeting_section .sm_wrapper {
         flex-direction: column;
@@ -321,10 +336,16 @@
     .scheduleMeeting_section .sm_wrapper h3 {
         padding-bottom: 15px;
     }
-    .footer_section .foote_col {
+    .footer_section .foote_col:first-child {
         max-width: 100% !important;
         padding: 0 !important;
         margin-bottom: 20px;
+    }
+    .footer_section .foote_col,
+    .footer_section .foote_col:last-child {
+        max-width: 33.33%;
+        margin-bottom: 20px;
+        padding-right: 20px;
     }
     .footer_section .footer_bottom {
         flex-direction: column;
@@ -342,8 +363,15 @@
     }
 }
 
-@media (max-width: 575px) {
+@media (max-width: 600px) {
     .first_story_box .banner_largeBox_right img {
         max-width: 200px;
+    }
+    .ourPartner_slider .slide {
+        width: calc(100%/2 - 15px);
+    }
+    .footer_section .foote_col {
+        max-width: 100% !important;
+        padding: 0 !important;
     }
 }
