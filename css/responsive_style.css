@@ -166,7 +166,7 @@
         padding: 20px 20px 20px 37px;
     }
     .ouClients_section .slide_box {
-        height: 70px;
+        height: 100%;
         padding: 10px;
     }
     .insight_Col .insight_Col_img {
@@ -315,6 +315,11 @@
         padding: 0;
         width: 100%;
     }
+    .insight_Col .insight_Col_img {
+        height: 240px;
+        background-size: contain;
+        background-color: #ffffff;
+    }
     .insight_Col .insight_Col_content {
         padding: 0;
     }
@@ -373,5 +378,11 @@
     .footer_section .foote_col {
         max-width: 100% !important;
         padding: 0 !important;
+    }
+}
+
+@media (max-width: 400px) {
+    .insight_Col .insight_Col_img {
+        height: 200px;
     }
 }
